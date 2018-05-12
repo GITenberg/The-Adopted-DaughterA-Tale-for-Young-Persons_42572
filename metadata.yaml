@@ -1,0 +1,34 @@
+_repo: The-Adopted-DaughterA-Tale-for-Young-Persons_42572
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42572-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Sandham, Elizabeth
+    gutenberg_agent_id: '41484'
+    url: http://www.gutenberg.org/2009/agents/41484
+description: ''
+gutenberg_issued: '2013-04-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42572'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fathers and daughters -- Juvenile fiction'
+- !lcsh 'Family -- Juvenile fiction'
+- !lcsh 'Motherless families -- Juvenile fiction'
+- !lcsh 'Nannies -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Social classes -- Juvenile fiction'
+- !lcsh 'Widows -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Inheritance and succession -- Juvenile fiction'
+- !lcsh 'Wealth -- Juvenile fiction'
+- !lcsh 'Charity -- Juvenile fiction'
+- !lcsh 'Adopted children -- Juvenile fiction'
+title: 'The Adopted Daughter: A Tale for Young Persons'
+url: http://www.gutenberg.org/ebooks/42572
